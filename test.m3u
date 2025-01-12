@@ -31,11 +31,5 @@ http://live.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海 felix",上海都市
 http://felix365.us.kg/itv/5000000010000018926.m3u8?cdn=bestzb
 
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海频道IPV6",上海都市ipv6
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
-
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="上海频道IPV6",上海都市
-http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
-
-#EXTINF:-1 tvg-name="上海都市" tvg-id="上海都市" tvg-logo="https://live.zbds.top/logo/上海都市.png" group-title="上海频道IPV6", 上海都市
+#EXTINF:-1 tvg-name="上海都市" tvg-id="上海都市" tvg-logo="https://live.zbds.top/logo/上海都市.png" group-title="上海频道IPV6", 上海都市 IPV6
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
