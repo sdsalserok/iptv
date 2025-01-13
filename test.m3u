@@ -3,8 +3,7 @@
 http://lu.wqwqwq.sbs/gaoma/cctv1.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
 http://lu.wqwqwq.sbs/itv/6000000001000029752.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="NBC San Diego" tvg-name="NBC San Diego" group-
-title="USA",NBC San Diego
+#EXTINF:-1,tvg-id="NBC San Diego" tvg-name="NBC San Diego" group-title="USA",NBC San Diego
 https://nbcu-nbcsandiegonews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" group-title="USA",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -12,6 +11,14 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1,tvg-id="Comedy Central" tvg-name="Comedy Central" group-title="USA",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1,tvg-id="FX" tvg-name="FX" group-title="USA",FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1,tvg-id="AMC" tvg-name="AMC" group-title="USA",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1,tvg-id="SYFY" tvg-name="SYFY" group-title="USA",SYFY
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1,tvg-id="Paramount" tvg-name="Paramount" group-title="USA",Paramount Network
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1,tvg-id="Tennis Channel UK" tvg-name="Tennis Channel UK" group-title="USA",Tennis Channel UK
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="Showtime" tvg-name="Showtime" group-title="USA",Showtime
@@ -20,6 +27,14 @@ http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1,tvg-id="Showtime Next" tvg-name="Showtime Next" group-title="USA",Showtime Next
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1,tvg-id="STARZ Edge" tvg-name="STARZ Edge" group-title="USA",STARZ Edge
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1,tvg-id="STARZ Comedy" tvg-name="STARZ Comedy" group-title="USA",STARZ Comedy
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1,tvg-id="STARZ Encore" tvg-name="STARZ Encore" group-title="USA",STARZ Encore
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1,tvg-id="STARZ Encore Action" tvg-name="STARZ Encore Action" group-title="USA",STARZ Encore Action
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海 wq",上海都市
 http://lu.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
