@@ -751,16 +751,34 @@ https://nbcu-nbcsandiegonews-firetv.amagi.tv/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1,tvg-id="TBS" tvg-name="TBS" group-title="USA",TBS
 http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1,tvg-id="TNT" tvg-name="TNT" group-title="USA",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1,tvg-id="Comedy Central" tvg-name="Comedy Central" group-title="USA",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1,tvg-id="Tennis Channel UK" tvg-name="Tennis Channel UK" group-title="USA",Tennis Channel UK
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,tvg-id="FX" tvg-name="FX" group-title="USA",FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1,tvg-id="AMC" tvg-name="AMC" group-title="USA",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1,tvg-id="SYFY" tvg-name="SYFY" group-title="USA",SYFY
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1,tvg-id="Paramount" tvg-name="Paramount" group-title="USA",Paramount Network
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1,tvg-id="Showtime" tvg-name="Showtime" group-title="USA",Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1,tvg-id="Showtime Extreme" tvg-name="Showtime Extreme" group-title="USA",Showtime Extreme
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1,tvg-id="Showtime Next" tvg-name="Showtime Next" group-title="USA",Showtime Next
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1,tvg-id="STARZ Edge" tvg-name="STARZ Edge" group-title="USA",STARZ Edge
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1,tvg-id="STARZ Comedy" tvg-name="STARZ Comedy" group-title="USA",STARZ Comedy
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1,tvg-id="STARZ Encore" tvg-name="STARZ Encore" group-title="USA",STARZ Encore
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1,tvg-id="STARZ Encore Action" tvg-name="STARZ Encore Action" group-title="USA",STARZ Encore Action
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1,tvg-id="Tennis Channel UK" tvg-name="Tennis Channel UK" group-title="USA",Tennis Channel UK
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/NBC%20News.png" group-title="USA",NBC News Now
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99992212
 #EXTINF:-1 group-title="USA",Fight Network
