@@ -763,8 +763,10 @@ http://124.248.69.76:26781/huya/11342390
 http://124.248.69.76:26781/huya/11279251
 #EXTINF:-1 tvg-name="刘德华" tvg-id="刘德华" group-title="电影频道", 刘德华
 http://124.248.69.76:26781/huya/11342424
-#EXTINF:-1 tvg-name="星爷" tvg-id="星爷" group-title="电影频道", 星爷http://1.94.31.214:35455/huya/11342412
-#EXTINF:-1 tvg-name="甄子丹" tvg-id="甄子丹" group-title="电影频道", 甄子丹http://124.248.69.76:26781/huya/11352935
+#EXTINF:-1 tvg-name="星爷" tvg-id="星爷" group-title="电影频道", 星爷
+http://1.94.31.214:35455/huya/11342412
+#EXTINF:-1 tvg-name="甄子丹" tvg-id="甄子丹" group-title="电影频道", 甄子丹
+http://124.248.69.76:26781/huya/11352935
 
 
 #EXTINF:-1,tvg-id="NBC San Diego" tvg-name="NBC San Diego" group-title="USA",NBC San Diego
