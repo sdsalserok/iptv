@@ -753,8 +753,18 @@ http://felix365.us.kg/itv/5000000010000018926.m3u8?cdn=bestzb
 http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-id="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="电影频道", CHC影迷电影
 http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
+#EXTINF:-1 tvg-name="龙华电影" tvg-id="龙华电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV1.png" group-title="电影频道", 龙华电影
+http://37.27.111.214:8080/live/19/hls.m3u8
 #EXTINF:-1 tvg-name="AMC电影" tvg-id="AMC电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/AMC电影.png" group-title="电影频道", AMC电影
 http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
+#EXTINF:-1 tvg-name="李连杰" tvg-id="李连杰" group-title="电影频道", 李连杰
+http://124.248.69.76:26781/huya/11342390
+#EXTINF:-1 tvg-name="洪金宝" tvg-id="洪金宝" group-title="电影频道", 洪金宝
+http://124.248.69.76:26781/huya/11279251
+#EXTINF:-1 tvg-name="刘德华" tvg-id="刘德华" group-title="电影频道", 刘德华
+http://124.248.69.76:26781/huya/11342424
+#EXTINF:-1 tvg-name="星爷" tvg-id="星爷" group-title="电影频道", 星爷http://1.94.31.214:35455/huya/11342412
+#EXTINF:-1 tvg-name="甄子丹" tvg-id="甄子丹" group-title="电影频道", 甄子丹http://124.248.69.76:26781/huya/11352935
 
 
 #EXTINF:-1,tvg-id="NBC San Diego" tvg-name="NBC San Diego" group-title="USA",NBC San Diego
