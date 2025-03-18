@@ -43,6 +43,9 @@ http://livetv.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海 wq",上海都市
 http://live.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
 
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海都市.png" group-title="📚上海频道🏡",上海都市
+http://api3.52tb.xyz/info?id=372&token=20221127jxwhhemby
+
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海 felix",上海都市
 http://felix365.us.kg/itv/5000000010000018926.m3u8?cdn=bestzb
 
